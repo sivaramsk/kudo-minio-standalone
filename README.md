@@ -4,8 +4,8 @@ Demo minio operator using KUDO
 Trying to learn KUDO by creating a Minio(standalone) operator. 
 
 Requirement:
-	1. Tested against Kubernetes 1.5.x
-	2. Needs KUDO operator version 0.8.0
+	Tested against Kubernetes 1.5.x
+	Needs KUDO operator version 0.8.0
 
 Deployment:
 	* Needs a PV of 10G called minio-pv
