@@ -11,5 +11,5 @@ Deployment:
 - Needs a PV of 10G called minio-pv
 - You can use the sample pv.yaml under the folder operator/template/pv.yaml
 - To install the operator
-  **kubectl kudo install kudo-minio-standalone**
+  **"kubectl kudo install kudo-minio-standalone"**
 
